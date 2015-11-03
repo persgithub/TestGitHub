@@ -1,2 +1,2 @@
 # TestGitHub
-Github Demo
+TestGithub is a repository to show working structure of GitHub.
